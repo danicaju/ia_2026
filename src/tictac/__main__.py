@@ -1,6 +1,4 @@
-from tictac import joc
-from tictac.solucio import agent as agent
-
+from tictac import joc, agent
 
 def main():
     quatre = joc.Taulell(
